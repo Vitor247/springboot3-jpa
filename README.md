@@ -37,6 +37,9 @@ cd springboot3-jpa
 ./mvnw spring-boot:run
 ```
 
+Coleção para importar no [postman](https://github.com/Vitor247/springboot3-jpa/blob/main/CourseJpa.postman_collection.json).
+
+
 # Autor
 
 Vitor Camilo Inácio
